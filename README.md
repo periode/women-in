@@ -10,6 +10,23 @@ Thoughts, questions, remarks:
 
 They are more than welcome, especially regarding the organization of content.
 
+## syllabi
+
+- Marie Hicks | Women In Computing History | [link](http://mariehicks.net/syllabi/HicksHIST385WomeninComputingFall2016v4forpub.pdf)
+- Logan Williams | [Gender, Sexuality, Sci, Tech: Race, Sex, Globalization and ICTs](http://libguides.lib.msu.edu/c.php?g=208456)
+
+
+## labor
+- Lisa Nakamura | [Don't Hate The Player, Hate The Game: Racialization of Labor in World of Warcraft](https://lnakamur.files.wordpress.com/2012/03/donthatetheplayer.pdf)
+- Lisa Nakamura | [Glitch Racism: Networks as Actors within Vernacular Internet Theory](http://culturedigitally.org/2013/12/glitch-racism-networks-as-actors-within-vernacular-internet-theory/)
+- Michelle Caswell | [Social aspects of Archival Practices](http://www.michellecaswell.org/p/research.html)
+- Tara McPherson | [Operating Systems at Mid-Century: The Intertwining of Race and UNIX](https://www.hastac.org/blogs/michacardenas/2012/03/15/ch-1-tara-mcpherson-us-operating-systems-mid-century)
+- Arlie Russell Hochschild | [The Managed Heart: The Commercialization of Human Feeling](http://www.ucpress.edu/book.php?isbn=9780520272941)
+- Abigail De Kosnik | [](http://tdps.berkeley.edu/people/abigail-de-kosnik/)
+
+
+## power
+- Wendy Chun | [Control and Freedom](https://mitpress.mit.edu/books/control-and-freedom)
 
 ## artists - digital media and technology
 - Julia Angwin | journalist/privacy | http://juliaangwin.com/
@@ -41,16 +58,22 @@ They are more than welcome, especially regarding the organization of content.
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
 
-## texts - body
+## body
 
 - Donna Haraway | [A Hacker Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) | The impact of technology on our human bodies
 
+## race
 
-## texts - inequality
+- Safiya U. Noble | [Publications](https://safiyaunoble.com/publication/)
+
+## inequality
 
 - Jane Margolis | [Stuck in the Shallow End](https://mitpress.mit.edu/books/stuck-shallow-end) | Race, gender and inequity in education
 
 
+## authors - media studies
+
+- Nicole Starosielski | [Publications](http://steinhardt.nyu.edu/faculty/Nicole_Starosielski)
 
 
 ## authors - gender and technology
