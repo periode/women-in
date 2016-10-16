@@ -38,3 +38,17 @@ They are more than welcome, especially regarding the organization of content.
 - Allison Parrish | Lecturer, writer | http://www.decontextualize.com/
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
+
+## lists
+- [CMU - A Partial List of Women in New Media Arts & Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/) 
+- [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
+
+## community
+- [WESTEM NYUAD](http://www.westemnyuad.org/)
+- [Ada's List](https://adaslist.mobilize.io/registrations/groups/3331)
+- [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
+- [Black Girls Code](http://www.blackgirlscode.com/)
+- [Girls Who Code](https://girlswhocode.com/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [STEM Women](http://www.stemwomen.net/)
+- [Engineer Girl](http://www.engineergirl.org/)
