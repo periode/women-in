@@ -33,6 +33,7 @@ They are more than welcome, especially regarding the organization of content.
 
 - Julia Angwin | journalist/privacy | http://juliaangwin.com/
 - Helen Nissenbaum | NYU Professor |
+- Sherry Turkle | MIT Professor | http://web.mit.edu/sturkle/www/
 - Mary Flanagan | Artist, writer, game designer | http://maryflanagan.com/
 - Claire Evans | Writer, Journalist | http://motherboard.vice.com/author/ClaireEvans
 - Denise Carruso | Writer, Academic
