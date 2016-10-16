@@ -13,7 +13,7 @@ They are more than welcome, especially regarding the organization of content.
 
 ## artists - digital media and technology
 - Julia Angwin | journalist/privacy | http://juliaangwin.com/
-- Helen Nissenbaum | NYU Professor | 
+- Helen Nissenbaum | NYU Professor |
 - Laura Poitras | Filmmaker | http://praxisfilms.org/
 - Mary Flanagan | Artist, writer, game designer | http://maryflanagan.com/
 - Addie Wagenknecht | Artist | http://placesiveneverbeen.com/
@@ -69,3 +69,18 @@ They are more than welcome, especially regarding the organization of content.
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) | The first computer programmer
 - [Elsie Shutt](http://ethw.org/Oral-History:Elsie_Shutt) | Founder of the first computer software company who first hired female freelance programmers.
 - [Dame Stephanie Shirley](http://www.steveshirley.com/) | Female IT entrepreneur
+
+
+## lists
+- [CMU - A Partial List of Women in New Media Arts & Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/)
+- [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
+
+## community
+- [WESTEM NYUAD](http://www.westemnyuad.org/)
+- [Ada's List](https://adaslist.mobilize.io/registrations/groups/3331)
+- [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
+- [Black Girls Code](http://www.blackgirlscode.com/)
+- [Girls Who Code](https://girlswhocode.com/)
+- [Women Who Code](https://www.womenwhocode.com/)
+- [STEM Women](http://www.stemwomen.net/)
+- [Engineer Girl](http://www.engineergirl.org/)
