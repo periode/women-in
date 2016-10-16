@@ -28,13 +28,12 @@ They are more than welcome, especially regarding the organization of content.
 ## power
 - Wendy Chun | [Control and Freedom](https://mitpress.mit.edu/books/control-and-freedom)
 
-## artists - digital media and technology
+
+## authors - technology
+
 - Julia Angwin | journalist/privacy | http://juliaangwin.com/
 - Helen Nissenbaum | NYU Professor |
-- Laura Poitras | Filmmaker | http://praxisfilms.org/
 - Mary Flanagan | Artist, writer, game designer | http://maryflanagan.com/
-- Addie Wagenknecht | Artist | http://placesiveneverbeen.com/
-- Allison Burtch | Artist | http://www.allisonburtch.net/
 - Claire Evans | Writer, Journalist | http://motherboard.vice.com/author/ClaireEvans
 - Denise Carruso | Writer, Academic
 - Harlo Holmes | Technologist | https://freedom.press/about/staff/harlo-holmes
@@ -42,17 +41,23 @@ They are more than welcome, especially regarding the organization of content.
 - Kate Crawford | Academic, researcher | http://www.katecrawford.net/
 - Jen Lowe | Technologist, researcher | http://jenlowe.net/
 - Julia Taganskyi | Curator, writer | http://www.makers.com/julia-kaganskiy
-- Joana Varon | Researcher, activist | https://necessaryandproportionate.org/author/joana-varon-ferraz
-- Jillian York | Writer, activist | http://jilliancyork.com/
 - Lindsay Howard | Curator | http://lindsayhoward.net/
 - Lorrie Cranor | Academic | https://www.cylab.cmu.edu/education/faculty/cranor.html
-- Maral Pourkazemi | Artist, information designer | http://monoment.io/
 - Runa Sandvik | Journalist, Tor Project | https://twitter.com/runasand
 - Simone Browne | Academic | https://www.amazon.com/Dark-Matters-Surveillance-Simone-Browne/dp/0822359383
 - Judy Wacjman | Academic | https://en.wikipedia.org/wiki/Judy_Wajcman
 - Jutta Weber | Academic | http://juttaweber.eu/
 - Katherine Isbister | Academic, researcher, games and HCI | http://www.katherineinterface.com/
 - Phoenix Perry | Lecturer, researcher, game designer, artist | http://www.phoenixperry.com/
+
+## actors - digital media and technology
+
+- Laura Poitras | Filmmaker | http://praxisfilms.org/
+- Addie Wagenknecht | Artist | http://placesiveneverbeen.com/
+- Allison Burtch | Artist | http://www.allisonburtch.net/
+- Joana Varon | Researcher, activist | https://necessaryandproportionate.org/author/joana-varon-ferraz
+- Jillian York | Writer, activist | http://jilliancyork.com/
+- Maral Pourkazemi | Artist, information designer | http://monoment.io/
 - Lauren McCarthy | Artist, programmer | http://lauren-mccarthy.com/
 - Allison Parrish | Lecturer, writer | http://www.decontextualize.com/
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
@@ -60,7 +65,7 @@ They are more than welcome, especially regarding the organization of content.
 
 ## body
 
-- Donna Haraway | [A Hacker Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) | The impact of technology on our human bodies
+- Donna Haraway | [A Cyborg Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) | The impact of technology on our human bodies
 
 ## race
 
