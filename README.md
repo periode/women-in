@@ -1,5 +1,7 @@
 # women-in
-A repository of academic and creative resources specifically focused on non-male contributions. This repository comes out of a possible need for centralized resources when it comes to teaching (classes/workshops/informal), and assigning readings or showing examples from non-males.
+A repository of academic and creative resources specifically focused on non-white-male contributions. This repository comes out of a possible need for centralized resources when it comes to teaching (classes/workshops/informal), and assigning readings or showing examples from non-white-males.
+
+Ideally, this would not be a repository exclusively **about gender**, but about anything **from the perspective of a non-white-male** <3
 
 Thoughts, questions, remarks:
 - can be sent to pierre.depaz@nyu.edu
@@ -9,7 +11,7 @@ Thoughts, questions, remarks:
 They are more than welcome, especially regarding the organization of content.
 
 
-## authors - digital media and technology
+## artists - digital media and technology
 - Julia Angwin | journalist/privacy | http://juliaangwin.com/
 - Helen Nissenbaum | NYU Professor | 
 - Laura Poitras | Filmmaker | http://praxisfilms.org/
@@ -38,3 +40,32 @@ They are more than welcome, especially regarding the organization of content.
 - Allison Parrish | Lecturer, writer | http://www.decontextualize.com/
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
+
+## texts - body
+
+- Donna Haraway | [A Hacker Manifesto](http://faculty.georgetown.edu/irvinem/theory/Haraway-CyborgManifesto-1.pdf) | The impact of technology on our human bodies
+
+
+## texts - inequality
+
+- Jane Margolis | [Stuck in the Shallow End](https://mitpress.mit.edu/books/stuck-shallow-end) | Race, gender and inequity in education
+
+
+
+
+## authors - gender and technology
+
+- Janet Abbade | [Recoding Gender](https://www.lib.vt.edu/events/vsi/abbate.html) | An account of how gender shaped the history of computing
+- Jean Jennings | [Pioneering Programmer](https://www.amazon.com/Pioneer-Programmer-Jennings-Computer-Changed/dp/1612480861)  | Autobiography of one of the original ENIAC programmers
+- Marie Hicks | [Programmed Inequality](http://programmedinequality.com/) | A historical account of how gender bias in Britain led to falling behind on the technological and computing race
+- Margot Lee Shetterley | [Hidden Figures](http://margotleeshetterly.com/hidden-figures-nasas-african-american-computers/) | A history of the african-american women mathematician involved in the space race.
+- Joanne Cohoon | [Women in Information Technology](https://mitpress.mit.edu/authors/joanne-cohoon) | Research on underrepresentation
+- Amy Sue Bix | [Girls Are Coming To Tech!](https://mitpress.mit.edu/books/girls-coming-tech) | Girls in engineering education in the US
+- Carla Freeman | [High Tech and High Heels](https://www.dukeupress.edu/High-Tech-and-High-Heels-in-the-Global-Economy/) | an ethnography about globalised tech industry
+- Jane Margolis | [Unlocking the Clubhouse](https://mitpress.mit.edu/books/unlocking-clubhouse) | Sociological study of the gender gap in computing
+
+## actors - computer science
+
+- [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) | The first computer programmer
+- [Elsie Shutt](http://ethw.org/Oral-History:Elsie_Shutt) | Founder of the first computer software company who first hired female freelance programmers.
+- [Dame Stephanie Shirley](http://www.steveshirley.com/) | Female IT entrepreneur
