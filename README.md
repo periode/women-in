@@ -107,7 +107,7 @@ They are more than welcome, especially regarding the organization of content.
 - [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
 
 ## community
-- [WESTEM NYUAD](http://www.westemnyuad.org/)
+- [WESTEM NYUAD](http://www.westemnyuad.nyuad.im)
 - [Ada's List](https://adaslist.mobilize.io/registrations/groups/3331)
 - [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
 - [Black Girls Code](http://www.blackgirlscode.com/)
