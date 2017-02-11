@@ -83,6 +83,7 @@ They are more than welcome, especially regarding the organization of content.
 
 - Nicole Starosielski | [Publications](http://steinhardt.nyu.edu/faculty/Nicole_Starosielski)
 - Julia Adams and Hannah Brückner | [Wikipedia, sociology, and the promise and pitfalls of Big Data](http://bds.sagepub.com/content/spbds/2/2/2053951715614332.full.pdf)
+- Wendy Chun | [Programmed Visions](https://mitpress.mit.edu/books/programmed-visions)
 
 
 ## authors - gender and technology
@@ -107,6 +108,7 @@ They are more than welcome, especially regarding the organization of content.
 ## lists
 - [CMU - A Partial List of Women in New Media Arts & Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/)
 - [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
+- [Women In Robotics](https://medium.com/@WomenInRobotics/launching-the-women-in-robotics-directory-5775c2df12bf#.wie5hsgt8)
 
 ## community
 - [WESTEM NYUAD](http://www.westem.nyuad.im/)
