@@ -106,6 +106,7 @@ They are more than welcome, especially regarding the organization of content.
 
 
 ## lists
+- [Women in Media Arts - Ars Electronica](http://www.aec.at/aeblog/en/2017/02/20/women-in-media-arts/)
 - [CMU - A Partial List of Women in New Media Arts & Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/)
 - [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
 - [Women In Robotics](https://medium.com/@WomenInRobotics/launching-the-women-in-robotics-directory-5775c2df12bf#.wie5hsgt8)
