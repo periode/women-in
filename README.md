@@ -28,6 +28,8 @@ They are more than welcome, especially regarding the organization of content.
 ## power
 - Wendy Chun | [Control and Freedom](https://mitpress.mit.edu/books/control-and-freedom)
 
+## open source
+- [Gender differences and bias in open source: pull request acceptance of women versus men](https://peerj.com/articles/cs-111/)
 
 ## authors - technology
 
