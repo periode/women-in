@@ -28,6 +28,8 @@ They are more than welcome, especially regarding the organization of content.
 ## power
 - Wendy Chun | [Control and Freedom](https://mitpress.mit.edu/books/control-and-freedom)
 
+## open source
+- [Gender differences and bias in open source: pull request acceptance of women versus men](https://peerj.com/articles/cs-111/)
 
 ## authors - technology
 
@@ -112,6 +114,7 @@ They are more than welcome, especially regarding the organization of content.
 - [Women In Robotics](https://medium.com/@WomenInRobotics/launching-the-women-in-robotics-directory-5775c2df12bf#.wie5hsgt8)
 
 ## community
+
 - [WESTEM NYUAD](http://www.westem.nyuad.im/)
 - [Ada's List](https://adaslist.mobilize.io/registrations/groups/3331)
 - [Black Girls Code](http://www.blackgirlscode.com/)
