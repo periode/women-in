@@ -66,6 +66,7 @@ They are more than welcome, especially regarding the organization of content.
 - Allison Parrish | Lecturer, writer | http://www.decontextualize.com/
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
+- [Hedy Lamarr ](https://en.wikipedia.org/wiki/Hedy_Lamarr) | Austrian and American film actress and inventor. 
 
 ## body
 
@@ -84,6 +85,7 @@ They are more than welcome, especially regarding the organization of content.
 
 - Nicole Starosielski | [Publications](http://steinhardt.nyu.edu/faculty/Nicole_Starosielski)
 - Julia Adams and Hannah Brückner | [Wikipedia, sociology, and the promise and pitfalls of Big Data](http://bds.sagepub.com/content/spbds/2/2/2053951715614332.full.pdf)
+- Wendy Chun | [Programmed Visions](https://mitpress.mit.edu/books/programmed-visions)
 
 
 ## authors - gender and technology
@@ -102,18 +104,25 @@ They are more than welcome, especially regarding the organization of content.
 - [Ada Lovelace](https://en.wikipedia.org/wiki/Ada_Lovelace) | The first computer programmer
 - [Elsie Shutt](http://ethw.org/Oral-History:Elsie_Shutt) | Founder of the first computer software company who first hired female freelance programmers.
 - [Dame Stephanie Shirley](http://www.steveshirley.com/) | Female IT entrepreneur
+- [Grace Hopper ](https://en.wikipedia.org/wiki/Grace_Hopper) | Invented the first compiler and worked on the development of COBOL, one of the first high-level programming languages.
 
 
 ## lists
+- [Women in Media Arts - Ars Electronica](http://www.aec.at/aeblog/en/2017/02/20/women-in-media-arts/)
 - [CMU - A Partial List of Women in New Media Arts & Design](http://cmuems.com/2015c/deliverables/deliverables-10/lists-of-women-media-artists/)
 - [50 Most Powerful Women in Technology](http://top50tech.org/2016/)
+- [Women In Robotics](https://medium.com/@WomenInRobotics/launching-the-women-in-robotics-directory-5775c2df12bf#.wie5hsgt8)
 
 ## community
-- [WESTEM NYUAD](http://www.westemnyuad.nyuad.im)
+
+- [WESTEM NYUAD](http://www.westem.nyuad.im/)
 - [Ada's List](https://adaslist.mobilize.io/registrations/groups/3331)
-- [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
 - [Black Girls Code](http://www.blackgirlscode.com/)
 - [Girls Who Code](https://girlswhocode.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
+- [She++](http://sheplusplus.org/)
+- [Anita Borg Institute] (http://anitaborg.org/)
+- [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
 - [STEM Women](http://www.stemwomen.net/)
 - [Engineer Girl](http://www.engineergirl.org/)
+
