@@ -87,6 +87,7 @@ They are more than welcome, especially regarding the organization of content.
 - Nicole Starosielski | [Publications](http://steinhardt.nyu.edu/faculty/Nicole_Starosielski)
 - Julia Adams and Hannah Brückner | [Wikipedia, sociology, and the promise and pitfalls of Big Data](http://bds.sagepub.com/content/spbds/2/2/2053951715614332.full.pdf)
 - Wendy Chun | [Programmed Visions](https://mitpress.mit.edu/books/programmed-visions)
+- Jodi Dean | Academic, Political Philospoher |  
 
 
 ## authors - gender and technology
