@@ -53,6 +53,7 @@ They are more than welcome, especially regarding the organization of content.
 - Jutta Weber | Academic | http://juttaweber.eu/
 - Katherine Isbister | Academic, researcher, games and HCI | http://www.katherineinterface.com/
 - Phoenix Perry | Lecturer, researcher, game designer, artist | http://www.phoenixperry.com/
+- Zeynep Tufecki | Academic, writer, techno-sociologist | http://technosociology.org/  
 
 ## actors - digital media and technology
 
