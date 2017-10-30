@@ -124,7 +124,7 @@ They are more than welcome, especially regarding the organization of content.
 - [Girls Who Code](https://girlswhocode.com/)
 - [Women Who Code](https://www.womenwhocode.com/)
 - [She++](http://sheplusplus.org/)
-- [Anita Borg Institute] (http://anitaborg.org/)
+- [Anita Borg Institute](http://anitaborg.org/)
 - [Women's Entrepreneur's Festival](https://twitter.com/wefestival)
 - [STEM Women](http://www.stemwomen.net/)
 - [Engineer Girl](http://www.engineergirl.org/)
