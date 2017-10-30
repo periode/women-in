@@ -67,7 +67,8 @@ They are more than welcome, especially regarding the organization of content.
 - Allison Parrish | Lecturer, writer | http://www.decontextualize.com/
 - Lauren Gardner | Community Organizer (SFPC, Babycastles) | http://www.laurengardner.com/
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
-- [Hedy Lamarr ](https://en.wikipedia.org/wiki/Hedy_Lamarr) | Austrian and American film actress and inventor. 
+- [Hedy Lamarr ](https://en.wikipedia.org/wiki/Hedy_Lamarr) | Austrian and American film actress and inventor
+- Jennifer Pahlka | [Founder & Executive Director Code for America](https://www.codeforamerica.org/people/jennifer-pahlka), US Deputy CTO 
 
 ## body
 
