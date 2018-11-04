@@ -69,6 +69,7 @@ They are more than welcome, especially regarding the organization of content.
 - Rachel Mayeri | Artist | http://rachelmayeri.com/
 - [Hedy Lamarr ](https://en.wikipedia.org/wiki/Hedy_Lamarr) | Austrian and American film actress and inventor
 - Jennifer Pahlka | [Founder & Executive Director Code for America](https://www.codeforamerica.org/people/jennifer-pahlka), US Deputy CTO 
+- Kate Compton | Maker of Many Interesting Things | http://www.galaxykate.com
 
 ## body
 
